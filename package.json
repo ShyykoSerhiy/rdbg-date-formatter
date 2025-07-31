@@ -10,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShyykoSerhiy/rdbg-date-formatter.git"
+  },
   "activationEvents": [
     "onLanguage:ruby",
     "onDebug",
