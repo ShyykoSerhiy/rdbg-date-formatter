@@ -3,6 +3,7 @@
   "displayName": "rdbg-date-formatter",
   "description": "Automatically formats Unix timestamps into human-readable dates while debugging Ruby code with the rdbg debugger",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.96.2"
   },
